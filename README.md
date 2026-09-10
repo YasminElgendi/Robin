@@ -1,4 +1,4 @@
-# Robin 🦾
+# Robin 
 
 ### ML-Powered Voice Programming Assistant
 
